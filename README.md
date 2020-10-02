@@ -1,7 +1,7 @@
 # self-contained-react-examples
-'Hello World' ReactJS examples in one html file
+'Hello World' ReactJS examples in one HTML file
 
-###To Use
+##To Use
 
 `git clone https://github.com/appsciences/self-contained-react-examples.git`
 
